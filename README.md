@@ -1,5 +1,11 @@
 # Clubhouse release notes 📝
 
+## Week ending July 12, 2019
+| 👀 | 🚀 |
+| :--- | :--- |
+| <img src="images/20190712/iterations-email-notifications.png" width="400px" /> | Email notification for Iteration change on Story<br/>[Internal](https://app.clubhouse.io/internal/story/61219) |
+
+
 ## Week ending June 28, 2019
 | 👀 | 🚀 |
 | :--- | :--- |
