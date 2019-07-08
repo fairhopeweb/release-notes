@@ -4,6 +4,9 @@
 | 👀 | 🚀 |
 | :--- | :--- |
 | <img src="images/20190712/iterations-email-notifications.png" width="400px" /> | Email notification for Iteration change on Story<br/>[Internal](https://app.clubhouse.io/internal/story/61219) |
+| <img src="images/20190712/collapsible-sections-stories-sidebar.png" width="400px" /> | Collapsible sections in Stories page sidebar<br/>[Internal](https://app.clubhouse.io/internal/story/61402) |
+| <img src="images/20190712/iteration-name-in-story-card.png" width="400px" /> | Iteration name in Story card<br/>[Internal](https://app.clubhouse.io/internal/story/64823) |
+| <img src="images/20190712/status-page-view-control.png" width="400px" /> | Move view control to the right on Status page to manage clutter<br/>[Internal](https://app.clubhouse.io/internal/story/64408) |
 
 
 ## Week ending June 28, 2019
