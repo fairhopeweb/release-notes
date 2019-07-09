@@ -10,9 +10,10 @@
 | <img src="images/20190712/iterations-color-spacing.png" width="400px" /> | Color and spacing on Iterations page consistent with rest of Clubhouse<br/>[Internal](https://app.clubhouse.io/internal/story/64143) |
 | <img src="images/20190712/reminder-unestimated-stories.png" width="400px" /> | Reminder of unestimated Stories on Reports page velocity chart<br/>[Internal](https://app.clubhouse.io/internal/story/65980) |
 | <img src="images/20190712/duplicate-story-iteration-field.png" width="400px" /> | Duplicating Story includes Iteration field<br/>[Internal](https://app.clubhouse.io/internal/story/64768) |
-| <img src="images/20190712/reminder-unestimated-stories.png" width="400px" /> | Filter by Story name in Iteration detail page<br/>[Internal](https://app.clubhouse.io/internal/story/57803) |
-| <img src="images/20190712/link-to-epics-iteration.png" width="400px" /> | Link to Epics in group by sections in Iteration detail page<br/>[Internal](https://app.clubhouse.io/internal/story/64465) |
-| <img src="images/20190712/link-to-projects-iteration.png" width="400px" /> | Link to Projects in group by sections in Iteration detail page<br/>[Internal](https://app.clubhouse.io/internal/story/64463) |
+| <img src="images/20190712/reminder-unestimated-stories.png" width="400px" /> | Filter by Story name in Iteration page<br/>[Internal](https://app.clubhouse.io/internal/story/57803) |
+| <img src="images/20190712/link-to-epics-iteration.png" width="400px" /> | Link to Epics in group by sections in Iteration page<br/>[Internal](https://app.clubhouse.io/internal/story/64465) |
+| <img src="images/20190712/link-to-projects-iteration.png" width="400px" /> | Link to Projects in group by sections in Iteration page<br/>[Internal](https://app.clubhouse.io/internal/story/64463) |
+| <img src="images/20190712/group-by-control-epic.png" width="400px" /> | Move group by control to the right on Epic page to manage clutter<br/>[Internal](https://app.clubhouse.io/internal/story/64460) |
 
 
 ## Week ending June 28, 2019
@@ -28,7 +29,7 @@
 | 👀 | 🚀 |
 | :--- | :--- |
 | <img src="images/20190621/epics-stories-sidebar-restyled.png" width="400px" /> | Consistent styling of Epics filters in Stories page sidebar<br/>[Internal](https://app.clubhouse.io/internal/story/62583) |
-| <img src="images/20190621/iteration-detail-page.png" width="400px" /> | Frontend optimizations on Iteration detail page for more performant real-time updates<br/>[Internal](https://app.clubhouse.io/internal/story/62243) |
+| <img src="images/20190621/iteration-detail-page.png" width="400px" /> | Frontend optimizations on Iteration page for more performant real-time updates<br/>[Internal](https://app.clubhouse.io/internal/story/62243) |
 | <img src="images/20190621/link-to-iteration-creation.png" width="400px" /> | Navigate to Iteration after creating it<br/>[Internal](https://app.clubhouse.io/internal/story/62622) |
 | <img src="images/20190621/reports-page.png" width="400px" /> | Revised Reports page layout for more efficient use of space<br/>[Internal](https://app.clubhouse.io/internal/story/63745) |
 | <img src="images/20190621/headline-metrics.png" width="400px" /> | Headline metrics on Reports page<br/>[Internal](https://app.clubhouse.io/internal/story/63915) |
