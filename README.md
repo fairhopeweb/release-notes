@@ -8,6 +8,7 @@
 | <img src="images/20190712/iteration-name-in-story-card.png" width="400px" /> | Iteration name in Story card<br/>[Internal](https://app.clubhouse.io/internal/story/64823) |
 | <img src="images/20190712/status-page-view-control.png" width="400px" /> | Move view control to the right on Status page to manage clutter<br/>[Internal](https://app.clubhouse.io/internal/story/64408) |
 | <img src="images/20190712/iterations-color-spacing.png" width="400px" /> | Color and spacing on Iterations page consistent with rest of Clubhouse<br/>[Internal](https://app.clubhouse.io/internal/story/64143) |
+| <img src="images/20190712/reminder-unestimated-stories.png" width="400px" /> | Reminder of unestimated Stories on Reports page velocity chart<br/>[Internal](https://app.clubhouse.io/internal/story/65980) |
 
 
 ## Week ending June 28, 2019
