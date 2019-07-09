@@ -11,6 +11,9 @@
 | <img src="images/20190712/reminder-unestimated-stories.png" width="400px" /> | Reminder of unestimated Stories on Reports page velocity chart<br/>[Internal](https://app.clubhouse.io/internal/story/65980) |
 | <img src="images/20190712/duplicate-story-iteration-field.png" width="400px" /> | Duplicating Story includes Iteration field<br/>[Internal](https://app.clubhouse.io/internal/story/64768) |
 | <img src="images/20190712/reminder-unestimated-stories.png" width="400px" /> | Filter by Story name in Iteration detail page<br/>[Internal](https://app.clubhouse.io/internal/story/57803) |
+| <img src="images/20190712/link-to-epics-iteration.png" width="400px" /> | Link to Epics in group by sections in Iteration detail page<br/>[Internal](https://app.clubhouse.io/internal/story/64465) |
+| <img src="images/20190712/link-to-projects-iteration.png" width="400px" /> | Link to Projects in group by sections in Iteration detail page<br/>[Internal](https://app.clubhouse.io/internal/story/64463) |
+
 
 ## Week ending June 28, 2019
 | 👀 | 🚀 |
