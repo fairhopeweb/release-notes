@@ -14,7 +14,7 @@
 | <img src="images/20190712/link-to-epics-iteration.png" width="400px" /> | Link to Epics in group by sections in Iteration page<br/>[Internal](https://app.clubhouse.io/internal/story/64465) |
 | <img src="images/20190712/link-to-projects-iteration.png" width="400px" /> | Link to Projects in group by sections in Iteration page<br/>[Internal](https://app.clubhouse.io/internal/story/64463) |
 | <img src="images/20190712/group-by-control-epic.png" width="400px" /> | Move group by control to the right on Epic page to manage clutter<br/>[Internal](https://app.clubhouse.io/internal/story/64460) |
-
+| <img src="images/20190712/blocking-icons.png" width="400px" /> | More intuitive blocking and blocked by icons<br/>[Internal](https://app.clubhouse.io/internal/story/32498) |
 
 ## Week ending June 28, 2019
 | 👀 | 🚀 |
