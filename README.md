@@ -1,3 +1,9 @@
+**This page will no longer be maintained, because we have now moved to [Clubhouse What's New?](https://clubhouse.io/release-notes/)**
+
+<img src="images/clubhouse-whats-new.png" width="400px" />
+
+---
+
 # Clubhouse release notes 📝
 
 ## Week ending July 12, 2019
